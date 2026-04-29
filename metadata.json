@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Tiga M Florist",
+  "description": "Website toko bunga profesional dengan katalog produk, portofolio, dan ulasan pelanggan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
